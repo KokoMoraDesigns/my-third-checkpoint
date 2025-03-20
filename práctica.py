@@ -19,7 +19,7 @@ exercise_three = list[0]
 
 # EXERCISE 4
 
-new_number += 10
+new_number = number + 10
 
 
 # EXERCISE 5
